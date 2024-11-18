@@ -2,10 +2,9 @@
 
 ## Projects Overview
 
-| ![Project 1 Thumbnail](![image](https://github.com/user-attachments/assets/8447a15d-12ef-4cde-a563-b5a6da5f74e7)
-) | ![Project 2 Thumbnail](link_to_image_2) |
+| ![SQL 포트폴리오](1.png) | ![파이썬 포트폴리오](1.png) |
 |:---------------------------------------:|:---------------------------------------:|
-| **Project 1**<br>Short description for project 1 | **Project 2**<br>Short description for project 2 |
+| **Project 1**<br>교통법규 데이터 분석 | **Project 2**<br>매장 판매량 예측 |
 
 | ![Project 3 Thumbnail](link_to_image_3) | ![Project 4 Thumbnail](link_to_image_4) |
 |:---------------------------------------:|:---------------------------------------:|
